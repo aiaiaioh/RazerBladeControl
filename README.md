@@ -1,5 +1,9 @@
 # Razer Blade Control
 
+<div align="right">
+  <img src="/data/icon.png" alt="Razer Blade Control Logo" width="120" height="120">
+</div>
+
 A lightweight, open-source alternative to Razer Synapse for Razer Blade laptops on Windows.
 
 Synapse is heavy, cloud-tied, and increasingly drops support for older hardware. This is a small
