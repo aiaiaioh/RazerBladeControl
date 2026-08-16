@@ -1,8 +1,7 @@
-# Razer Blade Control
-
 <div align="right">
-  <img src="/data/icon.png" alt="Razer Blade Control Logo" width="120" height="120">
+  <img src="/data/icon.png" alt="Razer Blade Control Logo" width="120" height="161">
 </div>
+# Razer Blade Control
 
 A lightweight, open-source alternative to Razer Synapse for Razer Blade laptops on Windows.
 
